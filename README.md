@@ -1,4 +1,0 @@
-deniskrut
-=========
-
-Denis Krut Blog
