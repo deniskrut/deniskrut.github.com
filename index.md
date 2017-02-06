@@ -14,11 +14,13 @@ I have experience building applications for iOS, and I am building next version 
 
 ### [Advanced Lane Finding](https://github.com/deniskrut/Advanced-Lane-Finding)
 _Computer Vision_
+
 * Finds the lane and estimates a position of the vehicle using color transforms and polynomial fit.
 * Works with inconsistent light and pavement colors.
 
 ### [Behavioral Cloning](https://github.com/deniskrut/CarND-behavioral-cloning)
 _Behavioral Cloning_
+
 * Predicts a steering angle based on the image using Deep Convolutional Neural Network and Keras.
 * Drives challenge and regular tracks flawlessly.
 
@@ -29,6 +31,7 @@ _Behavioral Cloning_
 
 #### Microsoft
 _Redmond, WA; December 2013 – Present_
+
 * Working on the Microsoft Office, using C++.
 * Have shipped “What’s New” and “First Run” features.
 * Have improved Microsoft Office accessibility.
@@ -37,12 +40,14 @@ _Redmond, WA; December 2013 – Present_
 
 #### WishPop
 _September 2012 – September 2013_
+
 * Developed most of the WishPop iOS app, which is a client-server application with a highly optimized image generation on the client side.
 
 ### Software Engineer, CTO
 
 #### Polonium Arts
 _September 2011 – October 2012_
+
 * Developed a physics-based game for iOS, and a prototype of gesture recognition using C++.
 * Led a team of 8 engineers.
 
